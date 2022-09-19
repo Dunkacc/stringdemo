@@ -1,0 +1,5 @@
+your_class = input("what is your favorite class:")
+loud_version = your_class.upper()
+quiet_version= your_class.lower()
+print( f"your favorite class is {loud_version}")
+print( f"your favorite class is {quiet_version}")
